@@ -64,8 +64,8 @@ Start writing the script and create scenes . Customize or edit the content
         .
         
 Upload your own videos.
+![createScnes](https://user-images.githubusercontent.com/97036824/211391952-2f92f700-3b8c-4bc1-b1a8-317e4252ff3d.png)
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1yZZD9senkyTVONsNkSvuaUCEG9IRsWmN)
 
 Now publish the created video.
 
@@ -74,13 +74,15 @@ For PAID publishing , follow the following steps:
 
 Firstly. Connect your wallet .
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1uz7eBYWNxNh8MOsRunUpnBVEvNkHHd9w)
+
+![connected_to_metaMask](https://user-images.githubusercontent.com/97036824/211392106-5e66c17e-3904-4292-8a1c-0dc468a0969c.png)
 
 
 Then click on video access and publish it. This will go through three steps in total.
 
+![Publish_2](https://user-images.githubusercontent.com/97036824/211392308-9d4010c9-7aa1-428e-a99c-87584bac01d6.png)
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1RlTxuYfOo8NYad9ha6rUMF3XK_slhTUJ)
+
 
 After Publish, this will generate a short preview in background on IPFS using web3.storage package which will locked.
 
@@ -89,12 +91,14 @@ On the dashboard, some videos are locked and can be accessed only when the User 
 
 Another option i.e. PREVIEW will show us the locked short previews which is to be played on Livepeer's IPFS playback tool.
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1_yj8dWKNuh-p3R6MOEAU0ulpr5pzaaKm)
+![Locked_pics](https://user-images.githubusercontent.com/97036824/211392375-f66a5c6e-bcb9-4945-97eb-96d557b8393d.png)
+
 
 
 Following is the short preview video using Livepeer's IBPS playback Tool which EndUser can see before BUY it.
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=101z2i1gV1ORjWP0t6OaarEZGoPx_cU0p)
+
+![preview_avatar_ENS](https://user-images.githubusercontent.com/97036824/211392487-ca099930-34dc-406b-a842-3907ccb40d59.jpeg)
 
 
  This contains Users ENS name and avatar also on the Right hand side.
@@ -118,14 +122,19 @@ Following is the short preview video using Livepeer's IBPS playback Tool which E
 
 ##
   Firstly, create a room by giving some details after login.
+![room1](https://user-images.githubusercontent.com/97036824/211392609-8e6d61cd-b1ec-4fdd-b9b3-2742e3fdc1fb.png)
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1q-U97FCjE9Xidlmz4Bhc34yobTcDNYDY)
+![room2](https://user-images.githubusercontent.com/97036824/211392652-64d016bd-fec0-4fcc-8449-77912dbdc7fb.png)
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1rC7XFGih_Qd2V_-HYzGIQqOH1K2C4mbv)
 
 After creating the room, let's enter into the created room by going to the url mentioned. You will following type of window.
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1bPBUYF9KJeMN_QXIUXDs2PfzXVy4msJ0)
+![room3](https://user-images.githubusercontent.com/97036824/211392675-cc7902f9-ecbb-4665-ac78-5539ab4a99e2.png)
+
+You can also edit the recordings asper your convenience.
+
+![WhatsApp Image 2023-01-10 at 00 37 50](https://user-images.githubusercontent.com/97036824/211392814-40e6b028-9452-47eb-afeb-937e18844886.jpeg)
+
 
 ##
 
