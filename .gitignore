@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+#*.py[cod]
+#*$py.class
+#logs/concat_logs
+#logs/keywords_log
+coutoEditor/global_variable.py
+#coutoEditor/settings.py
+#requirements.txt
+#media/
+#static/
+db.sqlite3
+venv/
+.idea/
+#ffmpeg/
+#node_modules/
+#package-lock.json
+#**/migrations/**
+#!**/migrations
+#!**/migrations/__init__.py
