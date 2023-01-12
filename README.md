@@ -72,7 +72,8 @@ Now publish the created video.
 
 There  are two options to publish FREE and PAID. FREE service will publish the video locally.
 For PAID publishing , there are further two more options: OCEAN or POLYGON
-ENS NAME and AVATAR will be provided if you use OCEAN only.
+
+ENS NAME and AVATAR will be Displayed if you use OCEAN only.
 
 ![publish_polygon](https://user-images.githubusercontent.com/97036824/212144534-5aa42ffb-46fa-4d2e-b578-97fcec1a6f91.png)
 
@@ -103,7 +104,7 @@ Another option i.e. PREVIEW will show us the locked short previews which is to b
 
 
 
-Following is the short preview video using Livepeer's IBPS playback Tool which EndUser can see before BUY it.
+Following is the short preview video using Livepeer's IPFS playback Tool which EndUser can see before BUY it.
 Here, we are publishing through ocean, so it contains ENS name and AVATAR.
 
 ![preview_avatar_ENS](https://user-images.githubusercontent.com/97036824/211392487-ca099930-34dc-406b-a842-3907ccb40d59.jpeg)
