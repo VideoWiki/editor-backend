@@ -79,7 +79,7 @@ ENS NAME and AVATAR will be Displayed if you use OCEAN only.
 
 
 Firstly. Connect your wallet . For POLYGON, use Polygon Testnet (Mumbai) network which has a currency MATIC.
-It will publish as a user nft and user can mint it also.
+It will publish the video as a nft and user can mint it also.
 
 ![publish_polygon4](https://user-images.githubusercontent.com/97036824/212144708-75e9c4e4-beb2-4560-8bb3-1ecee146d408.png)
 
