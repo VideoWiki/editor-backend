@@ -68,11 +68,19 @@ Upload your own videos.
 
 
 Now publish the created video.
+![Publish_2](https://user-images.githubusercontent.com/97036824/211392308-9d4010c9-7aa1-428e-a99c-87584bac01d6.png)
 
 There  are two options to publish FREE and PAID. FREE service will publish the video locally.
-For PAID publishing , follow the following steps:
+For PAID publishing , there are further two more options: OCEAN or POLYGON
+ENS NAME and AVATAR will be provided if you use OCEAN only.
 
-Firstly. Connect your wallet .
+![publish_polygon](https://user-images.githubusercontent.com/97036824/212144534-5aa42ffb-46fa-4d2e-b578-97fcec1a6f91.png)
+
+
+Firstly. Connect your wallet . For POLYGON, use Polygon Testnet (Mumbai) network which has a currency MATIC.
+It will publish as a user nft and user can mint it also.
+
+![publish_polygon4](https://user-images.githubusercontent.com/97036824/212144708-75e9c4e4-beb2-4560-8bb3-1ecee146d408.png)
 
 
 ![connected_to_metaMask](https://user-images.githubusercontent.com/97036824/211392106-5e66c17e-3904-4292-8a1c-0dc468a0969c.png)
@@ -80,7 +88,7 @@ Firstly. Connect your wallet .
 
 Then click on video access and publish it. This will go through three steps in total.
 
-![Publish_2](https://user-images.githubusercontent.com/97036824/211392308-9d4010c9-7aa1-428e-a99c-87584bac01d6.png)
+
 
 
 
@@ -96,7 +104,7 @@ Another option i.e. PREVIEW will show us the locked short previews which is to b
 
 
 Following is the short preview video using Livepeer's IBPS playback Tool which EndUser can see before BUY it.
-
+Here, we are publishing through ocean, so it contains ENS name and AVATAR.
 
 ![preview_avatar_ENS](https://user-images.githubusercontent.com/97036824/211392487-ca099930-34dc-406b-a842-3907ccb40d59.jpeg)
 
